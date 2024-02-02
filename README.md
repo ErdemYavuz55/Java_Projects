@@ -3,6 +3,10 @@ Description:
 A collection of fundamental Java projects for beginners and enthusiasts. Dive into Java with these hands-on examples.
 
 # Fundamental Java Projects
+## About This Repository
+Welcome to our collection of Fundamental Java Projects! This repository is designed for beginners and Java enthusiasts who are looking to strengthen their programming skills. Here, you'll find a variety of projects that cover basic concepts and practical applications of Java.
+
+## Projects Included
 1. Hello World :
    A classic introduction to Java programming. This simple application prints "Hello World" to the console, marking the first step into programming.
 
@@ -64,12 +68,6 @@ A collection of fundamental Java projects for beginners and enthusiasts. Dive in
     A basic file explorer that allows users to view and manage files and directories on their computer.
 
 Each project serves as a practical application of Java programming concepts, ideal for beginners to grasp the fundamentals of Java.
-
-## About This Repository
-Welcome to our collection of Fundamental Java Projects! This repository is designed for beginners and Java enthusiasts who are looking to strengthen their programming skills. Here, you'll find a variety of projects that cover basic concepts and practical applications of Java.
-
-## Projects Included
-(Proje isimlerini ve kısa açıklamalarını buraya ekleyin.)
 
 ## Getting Started
 - Prerequisites: 
