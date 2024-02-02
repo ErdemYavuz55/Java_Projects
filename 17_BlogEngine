@@ -1,0 +1,50 @@
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+public class BlogEngine {
+    private static List<String> posts = new ArrayList<>();
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int choice;
+
+        while (true) {
+            System.out.println("1. Add Post\n2. View Posts\n3. Exit");
+            choice = scanner.nextInt();
+            scanner.nextLine();  // Consume newline
+
+            switch (choice) {
+                case 1:
+                    addPost(scanner);
+                    break;
+                case 2:
+                    viewPosts();
+                    break;
+                case 3:
+                    System.out.println("Exiting...");
+                    return;
+                default:
+                    System.out.println("Invalid choice. Please try again.");
+            }
+        }
+    }
+
+    private static void addPost(Scanner scanner) {
+        System.out.print("Enter your post: ");
+        String post = scanner.nextLine();
+        posts.add(post);
+        System.out.println("Post added successfully.");
+    }
+
+    private static void viewPosts() {
+        if (posts.isEmpty()) {
+            System.out.println("No posts available.");
+        } else {
+            System.out.println("Blog Posts:");
+            for (String post : posts) {
+                System.out.println(post);
+            }
+        }
+    }
+}
