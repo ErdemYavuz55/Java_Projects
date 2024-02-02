@@ -1,9 +1,9 @@
 # Table of Contents
-6. [Currency Converter](#11-currency-converter)
-7. [Age Calculator](#12-age-calculator)
-8. [Email Validator](#13-email-validator)
-9. [Basic E-commerce System](#14-basic-e-commerce-system)
-10. [Password Generator](#15-password-generator)
+11. [Currency Converter](#11-currency-converter)
+12. [Age Calculator](#12-age-calculator)
+13. [Email Validator](#13-email-validator)
+14. [Basic E-commerce System](#14-basic-e-commerce-system)
+15. [Password Generator](#15-password-generator)
 
 ## 11. Currency Converter
 ### Introduction
