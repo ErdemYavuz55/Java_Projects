@@ -94,8 +94,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 
 ## Contact
-Your Name - [Your Email]
+Erdem Yavuz Hacısoftaoğlu - erdemyavuz.hacisoftaoglu@gmail.com
 
----
 
-Bu örnekleri reponuza uygun şekilde düzenleyebilir ve genişletebilirsiniz. Önemli olan, kullanıcıların projenizi kolayca anlamalarını ve nasıl kullanacaklarını bilerek katkıda bulunmalarını sağlamaktır.
+
