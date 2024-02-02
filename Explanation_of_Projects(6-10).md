@@ -1,9 +1,9 @@
 # Table of Contents
-1. [Tic-Tac-Toe Game](#6-tic-tac-toe-game)
-2. [Palindrome Checker](#7-palindrome-checker)
-3. [Factorial Calculator](#8-factorial-calculator)
-4. [Number Guessing Game](#9-number-guessing-game)
-5. [Student Management System](#10-student-management-system)
+6. [Tic-Tac-Toe Game](#6-tic-tac-toe-game)
+7. [Palindrome Checker](#7-palindrome-checker)
+8. [Factorial Calculator](#8-factorial-calculator)
+9. [Number Guessing Game](#9-number-guessing-game)
+10. [Student Management System](#10-student-management-system)
 
 ## 6. Tic-Tac-Toe Game
 ### Introduction
