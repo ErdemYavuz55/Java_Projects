@@ -1,23 +1,3 @@
-# Basic Calculator in Java
-
-## Introduction
-This is a simple console-based calculator application in Java. It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
-
-## Features
-- User can perform arithmetic operations.
-- Supports addition, subtraction, multiplication, and division.
-- Handles basic user input errors.
-
-## How to Compile and Run
-1. Compile the `Calculator.java` file:
-2. Run the compiled class:
-3. Follow the on-screen instructions to enter numbers and select an operation.
-
-## Usage Example
-- Enter the first number: `5`
-- Enter the second number: `3`
-- Enter the operation (+, -, *, /): `*`
-- Output: `15.0`
 
 import java.util.Scanner;
 
