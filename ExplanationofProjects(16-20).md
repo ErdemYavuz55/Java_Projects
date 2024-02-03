@@ -1,9 +1,9 @@
 # Table of Contents
-11. [Library Management System](#16-library-management-system)
-12. [Simple Blog Engine](#17-simple-blog-engine)
-13. [Text-based Adventure Game](#18-text-based-adventure-game)
-14. [Mortgage Calculator](#19-mortgage-calculator)
-15. [File Explorer](#20-file-explorer)
+16. [Library Management System](#16-library-management-system)
+17. [Simple Blog Engine](#17-simple-blog-engine)
+18. [Text-based Adventure Game](#18-text-based-adventure-game)
+19. [Mortgage Calculator](#19-mortgage-calculator)
+20. [File Explorer](#20-file-explorer)
 
 ## 16. Library Management System
 ### Introduction
